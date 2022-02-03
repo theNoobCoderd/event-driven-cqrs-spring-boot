@@ -1,0 +1,29 @@
+2022-01-12 22:44:23 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.7 on DESKTOP-EFSIHVK with PID 18088 (C:\bocasay\event-driven-project\microservices-demo\twitter-to-kafka-service\target\classes started by bocasay_user in C:\bocasay\event-driven-project\microservices-demo)
+2022-01-12 22:44:23 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-12 22:44:23 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.851 seconds (JVM running for 2.888)
+2022-01-12 22:44:23 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Application Starts... 
+2022-01-12 22:44:23 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-01-12 22:56:58 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.7 on DESKTOP-EFSIHVK with PID 19808 (C:\bocasay\event-driven-project\microservices-demo\twitter-to-kafka-service\target\classes started by bocasay_user in C:\bocasay\event-driven-project\microservices-demo)
+2022-01-12 22:56:58 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-12 22:56:59 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.296 seconds (JVM running for 2.981)
+2022-01-12 22:56:59 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Application Starts... 
+2022-01-12 22:56:59 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - ---> null
+2022-01-12 22:56:59 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-01-12 23:00:22 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.7 on DESKTOP-EFSIHVK with PID 20176 (C:\bocasay\event-driven-project\microservices-demo\twitter-to-kafka-service\target\classes started by bocasay_user in C:\bocasay\event-driven-project\microservices-demo)
+2022-01-12 23:00:22 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-12 23:00:23 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.829 seconds (JVM running for 1.797)
+2022-01-12 23:00:23 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Application Starts... 
+2022-01-12 23:00:23 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - ---> null
+2022-01-12 23:00:23 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-01-12 23:00:49 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.7 on DESKTOP-EFSIHVK with PID 27324 (C:\bocasay\event-driven-project\microservices-demo\twitter-to-kafka-service\target\classes started by bocasay_user in C:\bocasay\event-driven-project\microservices-demo)
+2022-01-12 23:00:49 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-12 23:00:50 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.791 seconds (JVM running for 1.744)
+2022-01-12 23:00:50 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Application Starts... 
+2022-01-12 23:00:50 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - ---> null
+2022-01-12 23:00:50 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-01-12 23:02:17 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.7 on DESKTOP-EFSIHVK with PID 15092 (C:\bocasay\event-driven-project\microservices-demo\twitter-to-kafka-service\target\classes started by bocasay_user in C:\bocasay\event-driven-project\microservices-demo)
+2022-01-12 23:02:17 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-12 23:02:18 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.923 seconds (JVM running for 1.913)
+2022-01-12 23:02:18 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Application Starts... 
+2022-01-12 23:02:18 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - This is a Message
+2022-01-12 23:02:18 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]

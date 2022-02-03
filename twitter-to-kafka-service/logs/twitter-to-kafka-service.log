@@ -1,0 +1,28 @@
+2022-01-28 14:58:23 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.7 on DESKTOP-EFSIHVK with PID 20948 (C:\bocasay\event-driven-project\microservices-demo\twitter-to-kafka-service\target\classes started by bocasay_user in C:\bocasay\event-driven-project\microservices-demo)
+2022-01-28 14:58:23 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-28 14:58:23 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.072 seconds (JVM running for 2.619)
+2022-01-28 14:58:23 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Application Starts... 
+2022-01-28 14:58:23 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - This is a Message
+2022-01-28 14:58:23 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-01-28 15:02:20 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.7 on DESKTOP-EFSIHVK with PID 1120 (C:\bocasay\event-driven-project\microservices-demo\twitter-to-kafka-service\target\classes started by bocasay_user in C:\bocasay\event-driven-project\microservices-demo)
+2022-01-28 15:02:20 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-28 15:02:20 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.366 seconds (JVM running for 2.929)
+2022-01-28 15:02:20 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Application Starts... 
+2022-01-28 15:02:20 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - This is a Message || Java
+2022-01-28 15:02:20 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-01-28 16:19:03 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.7 on DESKTOP-EFSIHVK with PID 16780 (C:\bocasay\event-driven-project\microservices-demo\twitter-to-kafka-service\target\classes started by bocasay_user in C:\bocasay\event-driven-project\microservices-demo)
+2022-01-28 16:19:03 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-28 16:19:03 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.916 seconds (JVM running for 2.113)
+2022-01-28 16:19:03 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Application Starts... 
+2022-01-28 16:19:03 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-01-28 16:19:03 [Twitter Stream consumer /  [1][initializing]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2022-01-28 16:19:03 [main] INFO  c.m.d.t.t.k.s.r.i.TwitterKafkaStreamRunner - Started filtering twitter stream for keywords [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-01-28 16:19:04 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 403:The request is understood, but it has been refused. An accompanying error message will explain why. This code is used when requests are being denied due to update limits (https://support.twitter.com/articles/15364-about-twitter-limits-update-api-dm-and-following).
+message - You currently have Essential access which includes access to Twitter API v2 endpoints only. If you need access to this endpoint, you’ll need to apply for Elevated access via the Developer Portal. You can learn more here: https://developer.twitter.com/en/docs/twitter-api/getting-started/about-twitter-api#v2-access-leve
+code - 453
+
+2022-01-28 16:19:04 [Twitter Stream consumer /  [1][Establishing connection]] WARN  twitter4j.TwitterStreamImpl - This account is not in required role. 403:The request is understood, but it has been refused. An accompanying error message will explain why. This code is used when requests are being denied due to update limits (https://support.twitter.com/articles/15364-about-twitter-limits-update-api-dm-and-following).
+message - You currently have Essential access which includes access to Twitter API v2 endpoints only. If you need access to this endpoint, you’ll need to apply for Elevated access via the Developer Portal. You can learn more here: https://developer.twitter.com/en/docs/twitter-api/getting-started/about-twitter-api#v2-access-leve
+code - 453
+
+2022-01-28 16:19:04 [SpringApplicationShutdownHook] INFO  c.m.d.t.t.k.s.r.i.TwitterKafkaStreamRunner - Closing twitter stream!
